@@ -1,0 +1,16 @@
+{
+  "name": "slot-bonus-100-di-depan",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Situs Slot Bonus New Member Di Depan To Kecil",
+  "keywords": [
+    "slot bonus 100",
+    "ink slot bonus new member 100",
+    "Slot bonus 100 gacor",
+  ],
+  "repository": "https://github.com/dewitogel/-slot-bonus-100-di-depan.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
